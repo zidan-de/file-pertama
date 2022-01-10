@@ -7,3 +7,4 @@ PLAN IPK>3.5
   - pemrograman
   - struktur data
   - matrix
+- rajin membaca
