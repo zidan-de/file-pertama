@@ -1,0 +1,9 @@
+PLAN IPK>3.5
+- belajar min 7 jam
+- rajin bertanya
+- buat resume pelajaran
+- istirahat
+- teori pelajaran dominan :
+  - pemrograman
+  - struktur data
+  - matrix
